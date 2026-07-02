@@ -29,11 +29,11 @@ Vista previa
 
 Version de escritorio:
 
-<imagen src="activos/readmeImg/desktop.jpeg" ancho="85%">
+<imagen src="./activos/readmeImg/desktop.jpeg" ancho="85%">
 
 Version móvil:
 
-<imagen src="activos/readmeImg/movil.jpeg" ancho="35%">
+<imagen src="./activos/readmeImg/movil.jpeg" ancho="35%">
 
 ---
 
