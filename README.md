@@ -25,6 +25,18 @@ Aplicación web estática e interactiva para generar paletas de colores aleatori
 
 ---
 
+Vista previa
+
+Version de escritorio:
+
+<imagen src="activos/readmeImg/desktop.jpeg" ancho="85%">
+
+Version móvil:
+
+<imagen src="activos/readmeImg/movil.jpeg" ancho="35%">
+
+---
+
 # 🛠️ Tecnologías utilizadas
 
 - HTML5
