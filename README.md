@@ -58,6 +58,16 @@ No requiere instalación de dependencias ni servidor.
 
 ---
 
+🤖 Documentación de IA
+
+La inteligencia artificial se utilizó como herramienta de aprendizaje y productividad durante el desarrollo de este proyecto.
+
+Su propósito era ayudarme a comprender mejor los conceptos de JavaScript, explorar diferentes enfoques de implementación y mejorar la calidad del código, al tiempo que se garantizaba que cada característica fuera revisada, comprendida y adaptada antes de ser incorporada a la aplicación.
+
+- **[Uso de IA](/activos/)**
+
+---
+
 # 🎯 Funcionalidades principales
 
 ## Generar paleta
