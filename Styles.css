@@ -23,6 +23,16 @@
       margin: 0 auto;
     }
 
+    .footer {
+      grid-area: footer;
+      background-color: #333;
+      color: white;
+      padding: 1rem 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
     header {
       text-align: center;
       margin-bottom: 32px;
