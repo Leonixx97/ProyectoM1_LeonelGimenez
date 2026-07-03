@@ -47,7 +47,7 @@ Vista previa
 
 ### Demo 
 
-<img src="./assets/readmeImg/generador.mov" widht="90%">
+<img src="./assets/readmeImg/generador.gif" widht="90%">
 
 </p>
 
