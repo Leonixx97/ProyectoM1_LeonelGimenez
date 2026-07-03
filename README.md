@@ -43,6 +43,14 @@ Vista previa
 
 </p>
 
+<p align="center">
+
+### Demo 
+
+<img src="./assets/readmeImg/Generador.mp4" widht="90%">
+
+</p>
+
 ---
 
 # 🛠️ Tecnologías utilizadas
