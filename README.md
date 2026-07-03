@@ -31,7 +31,7 @@ Vista previa
 
 ### Version de escritorio: 
 
-<imagen src="./assets/readmeImg/desktop.jpeg" ancho="85%">
+<img src="./assets/readmeImg/desktop.jpeg" widht="85%">
 
 </pag>
 
@@ -39,7 +39,7 @@ Vista previa
 
 ### Version móvil:
 
-<imagen src="./assets/readmeImg/movil.jpeg" ancho="35%">
+<img src="./assets/readmeImg/movil.jpeg" widht="35%">
 
 </pag>
 
