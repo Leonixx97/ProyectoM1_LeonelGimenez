@@ -27,21 +27,21 @@ Aplicación web estática e interactiva para generar paletas de colores aleatori
 
 Vista previa
 
-<pag alinear="centro">
+<p align="center">
 
 ### Version de escritorio: 
 
 <img src="./assets/readmeImg/desktop.jpeg" widht="85%">
 
-</pag>
+</p>
 
-<pag alinear="centro">
+<p align="center">
 
 ### Version móvil:
 
 <img src="./assets/readmeImg/movil.jpeg" widht="35%">
 
-</pag>
+</p>
 
 ---
 
